@@ -21,5 +21,10 @@ namespace gittestbranches
         {
             textBox1.Text = "Kurwa bober ja pierdole";
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            textBox1.Text = "depression";
+        }
     }
 }
